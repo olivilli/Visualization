@@ -1,6 +1,6 @@
 ## Power BI Projects Overview
 
-- **[Salaries](/Salaries/)**: Project visualizes the data analytics job market from 2020 to 2023, focusing on roles, 
+- **[Salaries](https://github.com/olivilli/Visualization/tree/main/PowerBI/Salaries)**: Project visualizes the data analytics job market from 2020 to 2023, focusing on roles, 
 expertise levels, salaries, and company sizes.
 
 - **[Supermarket](PowerBI/Supermarket/)**: I used a publicly available dataset containing information about a supermarket
