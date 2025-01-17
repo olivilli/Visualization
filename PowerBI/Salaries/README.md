@@ -5,8 +5,6 @@ The dataset used for this analysis was sourced from [Kaggle](https://www.kaggle.
 
 ![salaries_dashboard](https://github.com/olivilli/Visualization/blob/main/PowerBI/Salaries/salaries.png)
 
----
-
 ## **About the Dataset**
 The dataset contains 11 columns, each providing detailed information about data science job salaries and related factors:
 
@@ -21,8 +19,6 @@ The dataset contains 11 columns, each providing detailed information about data 
 - **`remote_ratio`**: The percentage of work done remotely.  
 - **`company_location`**: The country of the employer’s main office.  
 - **`company_size`**: The median number of employees in the company.
-
----
 
 ## **Dashboard Features**
 
