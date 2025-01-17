@@ -1,6 +1,6 @@
 ## **Financials Power BI Project**
 
-![Financials Dashboard](Financials/financials.png)
+![Financials Dashboard](https://github.com/olivilli/Visualization/blob/main/PowerBI/Financials/financials.png)
 
 This project is my first data visualization in Power BI, focusing on analyzing financial data. The dataset used was a built-in table in Power BI, which I cleaned, transformed, and visualized to create an interactive dashboard.
 
@@ -23,9 +23,10 @@ This project is my first data visualization in Power BI, focusing on analyzing f
   Profit Ratio = DIVIDE(SUM(Financials[Profit]), SUM(Financials[Gross Sales]))
   ```
 
-  ![financials_video](Financials_pbi_screen_record.gif)
-
 ## **Dashboard Features**
+
+  ![financials_video](https://github.com/olivilli/Visualization/blob/main/PowerBI/Financials/financials_pbi_screen_record.gif)
+
 - A combined bar and line chart showing Sum of sales and Sum of profit by date
 - Additional tables and charts for better insights
 - Four cards displaying key performance indicators
