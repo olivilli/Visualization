@@ -24,7 +24,7 @@ The dataset contains 11 columns, each providing detailed information about data 
 
 ---
 
-## **Key Elements of the Dashboard**
+## **Dashboard Features**
 
 ![salaries_pbi_screen_record](https://github.com/olivilli/Visualization/blob/main/PowerBI/Salaries/salaries_pbi_screen_record.gif)
 
