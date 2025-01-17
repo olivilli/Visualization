@@ -1,10 +1,8 @@
 ## **Financials Power BI Project**
 
-![Financials Dashboard](https://github.com/olivilli/Visualization/blob/main/PowerBI/Financials/financials.png)
-
 This project is my first data visualization in Power BI, focusing on analyzing financial data. The dataset used was a built-in table in Power BI, which I cleaned, transformed, and visualized to create an interactive dashboard.
 
----
+![Financials Dashboard](https://github.com/olivilli/Visualization/blob/main/PowerBI/Financials/financials.png)
 
 ## **Project Details**
 
