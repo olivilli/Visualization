@@ -1,9 +1,9 @@
 ## Power BI Projects Overview
 
-- **[Salaries](/Salaries)**: Project visualizes the data analytics job market from 2020 to 2023, focusing on roles, 
+- **[Salaries](PowerBI/Salaries/)**: Project visualizes the data analytics job market from 2020 to 2023, focusing on roles, 
 expertise levels, salaries, and company sizes.
 
-- **[Supermarket](/Supermarket)**: I used a publicly available dataset containing information about a supermarket
+- **[Supermarket](PowerBI/Supermarket/)**: I used a publicly available dataset containing information about a supermarket
 chain, including products, customers, and sales. Key features include: Decomposition Tree, Drillthrough Pages, Parameter Control.
 
-- **[Financials](/Financials)**: This is my first data visualization in Power BI, using the built-in dataset as the data source. 
+- **[Financials](PowerBI/Financials/)**: This is my first data visualization in Power BI, using the built-in dataset as the data source. 
