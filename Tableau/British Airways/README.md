@@ -1,7 +1,7 @@
 ## **British Airways Review Dashboard**
 
 This Tableau dashboard provides an analysis of 1,325 British Airways customer reviews from the years 2016 to 2023.
-The dashboard is  available oline on the [tableau.public](https://public.tableau.com/app/profile/olya.lytvynova/viz/BritishAirwaysReview_17374697690270/Dashboard1#1)
+The dashboard is available on [tableau.public](https://public.tableau.com/app/profile/olya.lytvynova/viz/BritishAirwaysReview_17374697690270/Dashboard1#1)
 
 ![british_airways_dashboard](https://github.com/olivilli/Visualization/blob/main/Tableau/British%20Airways/british_airways.png)
 
@@ -30,9 +30,9 @@ All visualizations and calculations were created across four separate sheets and
   ```
  
 - ### **Tooltips:** 
-Each tooltip in every chart provides not only specific metric values but also includes the number of reviews, offering additional context and helping to better understand the significance of the displayed data.
+  Each tooltip in every chart provides not only specific metric values but also includes the number of reviews, offering additional context and helping to better understand the significance of the displayed data.
 
-![british_airways_tooltip](https://github.com/olivilli/Visualization/blob/main/Tableau/British%20Airways/british_airways_tooltip.png)
+  ![british_airways_tooltip](https://github.com/olivilli/Visualization/blob/main/Tableau/British%20Airways/british_airways_tooltip.png)
 
 - ### **Aircraft Grouping:**  
   To improve visualization clarity, all aircraft types with fewer than 50 reviews were grouped together.
